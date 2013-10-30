@@ -1,0 +1,65 @@
+---
+build.dart --machine --full
+
+build.dart finished [1144 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [1016 ms]
+
+---
+build.dart --machine --changed=build/clickcounter.html --changed=build/dartapp.css --changed=build/dartapp.html
+
+build.dart finished [1014 ms]
+
+---
+build.dart --machine --changed=build/clickcounter.html --changed=build/dartapp.css --changed=build/dartapp.html
+
+build.dart finished [1023 ms]
+
+---
+build.dart --machine --changed=build/clickcounter.html --changed=build/dartapp.css --changed=build/dartapp.html
+
+build.dart finished [1026 ms]
+
+---
+build.dart --machine --removed=build/clickcounter.html --removed=build/dartapp.css --removed=build/dartapp.html
+
+build.dart finished [1040 ms]
+
+---
+build.dart --machine --changed=build/clickcounter.dart --changed=build/clickcounter.html --changed=build/dartap...
+
+build.dart finished [1029 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [1002 ms]
+
+---
+build.dart --machine --changed=build/clickcounter.html --changed=build/dartapp.css --changed=build/dartapp.html...
+
+build.dart finished [1024 ms]
+
+---
+build.dart --machine --removed=web/clickcounter.dart --removed=web/clickcounter.html --removed=web/dartapp.css ...
+
+build.dart finished [913 ms]
+
+---
+build.dart --machine --changed=web/click_counter.dart --changed=web/click_counter.html --changed=web/index.html
+
+build.dart finished [985 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html --removed=web/index.html
+
+build.dart finished [1007 ms]
+
+---
+build.dart --machine --changed=build/click_counter.html --changed=build/dartapp.html --removed=build/clickcount...
+
+build.dart finished [998 ms]
+
